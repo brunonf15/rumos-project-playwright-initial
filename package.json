@@ -1,0 +1,24 @@
+{
+  "name": "rumos-project-playwright-initial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "playwright:open": "playwright open",
+    "playwright:run": "playwright test",
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunonf15/rumos-project-playwright-initial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunonf15/rumos-project-playwright-initial/issues"
+  },
+  "homepage": "https://github.com/brunonf15/rumos-project-playwright-initial#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.37.0"
+  }
+}
